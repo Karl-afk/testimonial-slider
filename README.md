@@ -34,7 +34,7 @@ Mobile Version
 ### Links
 
 - Solution URL: [https://github.com/Karl-afk/testimonial-slider.git](https://github.com/Karl-afk/testimonial-slider.git)
-- Live Site URL: [https://karl-afk.github.io/testimonial-slider/]
+- Live Site URL: [https://testimonial-slider.vercel.app/]
 
 
 ### Built with
